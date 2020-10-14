@@ -1,8 +1,5 @@
 ### E aí galera! 
 
-(https://juan-20.github.io/Site_Pessoal/)
-
-
 <br/> 💻 Fazendo uns códigos 
 <br/> 👨‍💻 Apaixonado por **programação** 
 <br/> 😎 Buscando sempre aprender mais
