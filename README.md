@@ -10,7 +10,7 @@
 ### Contato:
 
 
-<br/>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin.com/in/lucianoweslen11-purple?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-andrade-811017190/)]https://www.linkedin.com/in/juan-andrade-811017190/) 
+<br/>[![Linkedin Badge](https://img.shields.io/badge/-Linkedin.com/in/juan-andrade-purple?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-andrade-811017190/)]https://www.linkedin.com/in/juan-andrade-811017190/) 
 <br/>
 [![Instagram Badge](https://img.shields.io/badge/-Instagram.com/juann.jpg-critical?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/juann.jpg/)](https://www.instagram.com/juann.jpg/)
 <br/>
