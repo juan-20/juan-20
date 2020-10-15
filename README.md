@@ -10,7 +10,6 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram.com/juann.jpg-critical?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/juann.jpg/)](https://www.instagram.com/juann.jpg/)
 <br/>
-[![Gmail Badge](https://img.shields.io/badge/-juanalvesandrade@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:juanalvesandrade@gmail.com)](mailto:juanalvesandrade@gmail.com)
 
 ### Linguagens e Ferramentas:
 
