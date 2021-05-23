@@ -16,12 +16,6 @@ Ex-aluno do *Colégio Cotemig* no curso de *desenvolvimento web mobile*     📚
 - 👨‍💻  18 anos.
 - 🌱 Tecnologias favoritas: Javascript, React, Html, CSS, Angular e React Native.
 - 💻 Estudando desenvolvimento web em Angular e aprendendo NextJS
-- 🤨 Novidades em breve....
-
-## Estáticas do meu Github
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juan-20&show_icons=true&theme=synthwave)
-</br>
 
 ## Linguagens mais ultilizadas
 
