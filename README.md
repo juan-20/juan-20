@@ -40,11 +40,3 @@ I'm a javascript developer, from 🇧🇷 Minas Gerais, Brasil
 </div>
 
 
-------------
-
-<p align="center">
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ofdpfcizlw9xpmv8157u4jije)
-</p>
-
-
-
