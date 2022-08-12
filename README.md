@@ -5,6 +5,7 @@ I'm a javascript developer, from 🇧🇷 Minas Gerais, Brasil
 -  🧒🏻 Junior Web Developer
 - 🔭 I'm currently working at [Speck](http://speck.live "Speck")
 - 📚 I'm currently learning Docker
+- 👥 he/him
 
 ------------
 
