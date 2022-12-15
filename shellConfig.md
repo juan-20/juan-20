@@ -19,7 +19,7 @@ Troque a fonte para LiterationMono NF
 ![App Screenshot](https://github.com/juan-20/juan-20/blob/main/assets/fontChanged.png?raw=true)
 
 Abra seu windows explorer e encontre sua pasta powershell. 
-A minha esta em Documentos/Powershell. Crie o arquivo:
+A minha esta em Documentos/Powershell. Se quiser basta digitar $PROFILE no poweshell. Crie o arquivo:
 ```
 Microsoft.PowerShell_profile.ps1
 ```
