@@ -36,10 +36,6 @@ I'm a javascript developer, from 🇧🇷 Minas Gerais, Brasil
 ------------
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=pt-br&hide_border=true&username=juan-20" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&username=juan-20" height="150" alt="languages graph"  />
-</div>
-<div align="center">
  <img src="https://github-readme-streak-stats.herokuapp.com?user=juan-20&theme=radical&date_format=j%20M%5B%20Y%5D&locale=pt-br)](https://git.io/streak-stats)" />
  </div>
 
