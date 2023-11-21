@@ -4,7 +4,7 @@ I'm a javascript developer, from 🇧🇷 Minas Gerais, Brasil
 - ✨ Creating bugs since 2018
 -  🧒🏻 Junior Web Developer
 - 🔭 I'm currently working at [Speck](http://speck.live "Speck")
-- 📚 I'm currently learning Docker
+- 📚 I'm currently learning GoLang and Astro
 - 👥 he/him
 
 ------------
